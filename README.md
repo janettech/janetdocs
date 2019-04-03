@@ -1,5 +1,5 @@
-# Welcome to my GitHub repo. This repo contains some technical work samples to highlight
-my technical writing experience.
+# Welcome to my GitHub repo. This repo contains some technical work samples.
+
 
 Sample profile docs
 
